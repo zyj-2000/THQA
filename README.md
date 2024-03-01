@@ -2,6 +2,20 @@
 The THQA database is a quality assessment database designed specifically for the person independent driving methods. It compares 8 popular speech-driven methods and contains a total of 800 talking head videos. If there are any questions or suggestions for improvement against the database, please feel free to contact us by zyj2000@sjtu.edu.cn.
 
 ## Preview
+<p align="center">
+
+<br/>
+<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_ahead.gif" width="23%">
+<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_dinet.gif" width="23%"> 
+<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_dreamtalk.gif" width="23%">
+<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_iplap.gif" width="23%">
+<br/>
+<br/>
+<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_mkittalk.gif" width="23%">
+<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_sad.gif" width="23%"> 
+<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_wavlip.gif" width="23%">
+<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_iplap.gif" width="23%">
+<br/>
 
 ## Distortions
 
