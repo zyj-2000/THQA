@@ -5,19 +5,20 @@ The THQA database is a quality assessment database designed specifically for the
 <p align="center">
 
 <br/>
-<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_ahead.gif" width="23%">
-<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_dinet.gif" width="23%"> 
-<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_dreamtalk.gif" width="23%">
-<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_iplap.gif" width="23%">
+<img alt="thqa" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_ahead.gif" width="23%">
+<img alt="thqa" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_dinet.gif" width="23%"> 
+<img alt="thqa" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_dreamtalk.gif" width="23%">
+<img alt="thqa" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_iplap.gif" width="23%">
 <br/>
-<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_mkittalk.gif" width="23%">
-<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_sad.gif" width="23%"> 
-<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_wavlip.gif" width="23%">
-<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_vidtalk.gif" width="23%">
+<img alt="thqa" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_mkittalk.gif" width="23%">
+<img alt="thqa" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_sad.gif" width="23%"> 
+<img alt="thqa" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_wavlip.gif" width="23%">
+<img alt="thqa" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_vidtalk.gif" width="23%">
 <br/>
 
 ## Distortions
-
+<p align="center">
+<img alt="thqa" src="https://github.com/zyj-2000/THQA/blob/main/imgs/dis.png" width="92%">
 
 ## Links
 The database is nearly 732MB, and 2 links are provided here.
