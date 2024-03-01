@@ -10,11 +10,10 @@ The THQA database is a quality assessment database designed specifically for the
 <img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_dreamtalk.gif" width="23%">
 <img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_iplap.gif" width="23%">
 <br/>
-<br/>
 <img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_mkittalk.gif" width="23%">
 <img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_sad.gif" width="23%"> 
 <img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_wavlip.gif" width="23%">
-<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_iplap.gif" width="23%">
+<img alt="threestudio" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_vidtalk.gif" width="23%">
 <br/>
 
 ## Distortions
