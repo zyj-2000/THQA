@@ -1,7 +1,12 @@
-# A Database for Talking Heads Quality Assessment (THQA)
+# A Database for Talking Heads Quality Assessment (THQA) 🚀🚀🚀
+
+🌟 Official Access to the THQA database in "THQA: A PERCEPTUAL QUALITY ASSESSMENT DATABASE FOR TALKING HEADS" 🌟 <br/>
+
+| <a href="https://www.researchgate.net/publication/378609270_THQA_A_PERCEPTUAL_QUALITY_ASSESSMENT_DATABASE_FOR_TALKING_HEADS">Paper</a> | 
+  
 The THQA database is a quality assessment database designed specifically for the person independent driving methods. It compares 8 popular speech-driven methods and contains a total of 800 talking head videos. If there are any questions or suggestions for improvement against the database, please feel free to contact us by zyj2000@sjtu.edu.cn.
 
-## Preview
+## 👀 Preview
 <p align="center">
 
 <br/>
@@ -16,13 +21,13 @@ The THQA database is a quality assessment database designed specifically for the
 <img alt="thqa" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_vidtalk.gif" width="23%">
 <br/>
 
-## Distortions
+## 🌋 Distortions
 <p align="center">
 <img alt="thqa" src="https://github.com/zyj-2000/THQA/blob/main/imgs/dis.png" width="92%">
 
-## Links
+## 💡 Links
 The database is nearly 732MB, and 2 links are provided here.
 1. [Baidu Yun Pan](https://pan.baidu.com/s/1D_6GlBcmzd3kVjqtLw9uGw)  (thqa)
 2. [Onedrive](https://1drv.ms/u/s!ArF6hugJt4gSi3-6E4Fb46I7XNbS)
 
-## Citation
+## 📑 Citation
