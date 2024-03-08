@@ -31,3 +31,13 @@ The database is nearly 732MB, and 2 links are provided here.
 2. [Onedrive](https://1drv.ms/u/s!ArF6hugJt4gSi3-6E4Fb46I7XNbS)
 
 ## 📑 Citation
+```
+@unknown{unknown,
+author = {Zhou, Yingjie and Zhang, Zicheng and Sun, Wei and Liu, Xiaohong and Min, Xiongkuo and Wang, Zhihua and Zhang, Xiao-Ping and Zhai, Guangtao},
+year = {2024},
+month = {03},
+pages = {},
+title = {THQA: A PERCEPTUAL QUALITY ASSESSMENT DATABASE FOR TALKING HEADS},
+doi = {10.13140/RG.2.2.13217.79204}
+}
+```
