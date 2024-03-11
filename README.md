@@ -32,12 +32,9 @@ The database is nearly 732MB, and 2 links are provided here.
 
 ## 📑 Citation
 ```
-@unknown{unknown,
-author = {Zhou, Yingjie and Zhang, Zicheng and Sun, Wei and Liu, Xiaohong and Min, Xiongkuo and Wang, Zhihua and Zhang, Xiao-Ping and Zhai, Guangtao},
-year = {2024},
-month = {03},
-pages = {},
-title = {THQA: A PERCEPTUAL QUALITY ASSESSMENT DATABASE FOR TALKING HEADS},
-doi = {10.13140/RG.2.2.13217.79204}
+@article{zhou2024thqa,
+  title={THQA: A PERCEPTUAL QUALITY ASSESSMENT DATABASE FOR TALKING HEADS},
+  author={Zhou, Yingjie and Zhang, Zicheng and Sun, Wei and Liu, Xiaohong and Min, Xiongkuo and Wang, Zhihua},
+  year={2024}
 }
 ```
