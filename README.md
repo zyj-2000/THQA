@@ -28,7 +28,7 @@ The THQA database is a quality assessment database designed specifically for the
 4. More Function is going to be explored. 
 
 ## 👀 How to Join Us?
-1. If you have more upadated talking head results, welcome to share them to us by email.
+1. If you have more upadated talking head results, welcome to share them to us by email or PR.
 2. We will carry out more subjective experiments on your results and update work.
 3. Thank for your support. Hope this work can promote each other!!!
 
