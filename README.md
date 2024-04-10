@@ -21,6 +21,17 @@ The THQA database is a quality assessment database designed specifically for the
 <img alt="thqa" src="https://github.com/zyj-2000/THQA/blob/main/imgs/1_voice_en_35042678_vidtalk.gif" width="23%">
 <br/>
 
+## 👀 How to Use Our Work for Your Convenience
+1. Open Platform to validate your talking head driving methods subjectively.
+2. Open Image and Audio Resources are provided which can be employed to driving heads.
+3. More objective methods will be provided soon!!!
+(4). More Function is going to be explored.
+
+## 👀 How to Join Us?
+1. If you have more upadated talking head results, welcome to share them to us by email.
+2. We will carry out more subjective experiments on your results and update work.
+3. Thank for your support. Hope this work can promote each other!!!
+
 ## 🌋 Distortions
 <p align="center">
 <img alt="thqa" src="https://github.com/zyj-2000/THQA/blob/main/imgs/dis.png" width="92%">
