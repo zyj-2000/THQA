@@ -23,9 +23,9 @@ The THQA database is a quality assessment database designed specifically for the
 
 ## 👀 How to Use Our Work for Your Convenience
 1. Open Platform to validate your talking head driving methods subjectively.
-2. Open Image and Audio Resources are provided which can be employed to driving heads.
+2. Open [Image](https://github.com/zyj-2000/THQA/tree/main/source) and Audio Resources are provided which can be employed to driving heads.
 3. More objective methods will be provided soon!!!
-(4). More Function is going to be explored.
+4. More Function is going to be explored. 
 
 ## 👀 How to Join Us?
 1. If you have more upadated talking head results, welcome to share them to us by email.
