@@ -34,7 +34,9 @@ The THQA database is a quality assessment database designed specifically for the
 
 ## 🚧 More Information and Convenience is Coming ...
 [4.22.2024] Poster our paper in arxiv.
+
 [4.13.2024] Release the original images.
+
 [3.01.2024] Poster our paper in Reseach Gate.
 ## 🌋 Distortions
 <p align="center">
