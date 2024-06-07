@@ -33,6 +33,8 @@ The THQA database is a quality assessment database designed specifically for the
 3. Thank for your support. Hope this work can promote each other!!!
 
 ## 🚧 More Information and Convenience is Coming ...
+[6.07.2024] Our paper is accepted by ICIP2024.
+
 [4.22.2024] Poster our paper in arxiv.
 
 [4.13.2024] Release the original images.
