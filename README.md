@@ -23,7 +23,7 @@ The THQA database is a quality assessment database designed specifically for the
 
 ## 👀 How to Use Our Work for Your Convenience
 1. Open Platform to validate your talking head driving methods subjectively.
-2. Open [Image](https://github.com/zyj-2000/THQA/tree/main/source) and Audio Resources are provided which can be employed to driving heads.
+2. Open [Image](https://github.com/zyj-2000/THQA/tree/main/source) and [Audio](https://pan.baidu.com/s/11mumIKJIuimBWFirooSEew) (code = thqa) Resources are provided which can be employed to driving heads.
 3. More objective methods will be provided soon!!!
 4. More Function is going to be explored. 
 
@@ -33,6 +33,8 @@ The THQA database is a quality assessment database designed specifically for the
 3. Thank for your support. Hope this work can promote each other!!!
 
 ## 🚧 More Information and Convenience is Coming ...
+[6.14.2024] Release the original audios in Baidu YunPan.
+
 [6.07.2024] Our paper is accepted by ICIP2024.
 
 [4.22.2024] Poster our paper in arxiv.
@@ -48,6 +50,7 @@ The THQA database is a quality assessment database designed specifically for the
 The database is nearly 732MB, and 2 links are provided here.
 1. [Baidu Yun Pan](https://pan.baidu.com/s/1D_6GlBcmzd3kVjqtLw9uGw)  (thqa)
 2. [Onedrive](https://1drv.ms/u/s!ArF6hugJt4gSi3-6E4Fb46I7XNbS)
+
 
 ## 📑 Citation
 ```
