@@ -33,6 +33,8 @@ The THQA database is a quality assessment database designed specifically for the
 3. Thank for your support. Hope this work can promote each other!!!
 
 ## 🚧 More Information and Convenience is Coming ...
+[9.25.2024] A derivative work [ReLI-QA](https://github.com/zyj-2000/ReLI-QA) from the THQA dataset is accepted by VCIP2024.
+
 [7.17.2024] A further research [THQA-3D](https://github.com/zyj-2000/THQA-3D) is accepted by ACM MM2024.
 
 [6.14.2024] Release the original audios in Baidu YunPan.
