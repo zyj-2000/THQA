@@ -54,9 +54,8 @@ The THQA database is a quality assessment database designed specifically for the
 
 ## 💡 Links
 The database is nearly 732MB, and 2 links are provided here.
-1. [Baidu Yun Pan](https://pan.baidu.com/s/1D_6GlBcmzd3kVjqtLw9uGw)  (thqa)
-2. [Onedrive](https://1drv.ms/u/s!ArF6hugJt4gSi3-6E4Fb46I7XNbS)
 
+**The link is lost for now, it will be back soon!**
 
 ## 📑 Citation
 ```
