@@ -33,6 +33,8 @@ The THQA database is a quality assessment database designed specifically for the
 3. Thank for your support. Hope this work can promote each other!!!
 
 ## 🚧 More Information and Convenience is Coming ...
+[4.08.2025] CVPR NTIRE 2025 XGC Quality Assessment Track 3: Talking Head End. THQA Dataset release public again!
+
 [10.12.2024] The poster for ICIP2024 THQA has been released.
 
 [9.25.2024] A derivative work [ReLI-QA](https://github.com/zyj-2000/ReLI-QA) from the THQA dataset is accepted by VCIP2024.
@@ -55,7 +57,9 @@ The THQA database is a quality assessment database designed specifically for the
 ## 💡 Links
 The database is nearly 732MB, and 2 links are provided here.
 
-**The link is lost for now, it will be back soon!**
+[Baidu YunPan](https://pan.baidu.com/s/1MY3e1uis5zC9lDWJ5j5TOQ?pwd=thqa)
+
+
 
 ## 📑 Citation
 ```
