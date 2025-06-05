@@ -2,6 +2,10 @@
 
 🌟 Official Access to the THQA database in "THQA: A PERCEPTUAL QUALITY ASSESSMENT DATABASE FOR TALKING HEADS" 🌟 <br/>
 
+**Authors:** Yingjie Zhou, Zicheng Zhang, Wei Sun, Xiaohong Liu,  Xiongkuo Min, Zhihua Wang, Xiao-Ping Zhang, and Guangtao Zhai
+
+**Institution:** Shanghai Jiaotong University,  PengCheng Laboratory, Toronto Metropolitan University
+
 | <a href="https://www.researchgate.net/publication/378609270_THQA_A_PERCEPTUAL_QUALITY_ASSESSMENT_DATABASE_FOR_TALKING_HEADS">Research Gate</a> | <a href=https://arxiv.org/abs/2404.09003>Arxiv</a> | 
   
 The THQA database is a quality assessment database designed specifically for the person independent driving methods. It compares 8 popular speech-driven methods and contains a total of 800 talking head videos. If there are any questions or suggestions for improvement against the database, please feel free to contact us by zyj2000@sjtu.edu.cn.
