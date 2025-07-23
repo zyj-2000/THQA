@@ -37,7 +37,9 @@ The THQA database is a quality assessment database designed specifically for the
 3. Thank for your support. Hope this work can promote each other!!!
 
 ## 🚧 More Information and Convenience is Coming ...
-[4.08.2025] CVPR NTIRE 2025 XGC Quality Assessment Track 3: Talking Head End. THQA Dataset release public again!
+[7.22.2025] Our zero-shot THQA method MI3S is accepted by Information Processing & Management.
+
+[6.26.2025] Our latest THQA work is accepted by ICCV25, presenting the THQA-10K dataset as well as the FSCD quality assessment method.
 
 [10.12.2024] The poster for ICIP2024 THQA has been released.
 
