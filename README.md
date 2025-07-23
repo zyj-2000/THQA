@@ -41,6 +41,8 @@ The THQA database is a quality assessment database designed specifically for the
 
 [6.26.2025] Our latest THQA work is accepted by ICCV25, presenting the THQA-10K dataset as well as the FSCD quality assessment method.
 
+[6.26.2025] We present the THQA-NTIRE dataset at CVPR NTIRE2025, hold [XGC Quality Assessment Track 3: Talking Head](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Liu_NTIRE_2025_XGC_Quality_Assessment_Challenge_Methods_and_Results_CVPRW_2025_paper.html).
+
 [10.12.2024] The poster for ICIP2024 THQA has been released.
 
 [9.25.2024] A derivative work [ReLI-QA](https://github.com/zyj-2000/ReLI-QA) from the THQA dataset is accepted by VCIP2024.
