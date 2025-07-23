@@ -18,14 +18,9 @@ def fit_function(y_label, y_output):
 
 # 读取CSV文件
 data = pd.read_csv("vvmf_thzs_a01.csv")
-# data = pd.read_csv("lib_mean_nips2024.csv")
-# data = pd.read_csv("vvmf_thzs_a001_ablation.csv")
-# data = pd.read_csv("lib_mean_nips2024_ipm.csv")
-# data = pd.read_csv("vvmf_thzs_b1.csv") 前向
-# data = pd.read_csv("combined_lib_c_with_means_all_columns.csv")
 
 # 提取特征X和目标值y
-X = data.iloc[:, 1:25]  # 22
+X = data.iloc[:, 1:25]
 y = data.iloc[:, 25]
 
 # 初始化列表用于存储各折的指标
