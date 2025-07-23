@@ -17,7 +17,7 @@ def fit_function(y_label, y_output):
     return y_output_logistic
 
 # 读取CSV文件
-data = pd.read_csv("vvmf_thzs_a01.csv")
+data = pd.read_csv("vvmf_results_a01.csv")
 
 # 提取特征X和目标值y
 X = data.iloc[:, 1:25]
